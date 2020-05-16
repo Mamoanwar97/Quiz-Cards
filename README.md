@@ -28,6 +28,9 @@ On expo-Android emulator:
 https://drive.google.com/open?id=1Tfm2AYVcHYfxBHEwxpbRcklj6PjlP70n
 ```
 
+<div data-snack-id="@mamoanwar97/quiz-cards" data-snack-platform="web" data-snack-preview="true" data-snack-theme="dark" style="overflow:hidden;background:#212733;border:1px solid rgba(0,0,0,.08);border-radius:4px;height:505px;width:100%"></div>
+<script async src="https://snack.expo.io/embed.js"></script>
+
 ## Installation
 First, you have to install Node.js on your computer. Then, write these commands in the project's directory in Terminal.
 I prefer using the snack website provided before because it is where i developed the entire app, then i exported it. according to expo snack website if you run these 2 commands it should works but i dont have emulator on my pc to check if it really works, i only simulate within the website and my personal iphone throuph expo app
