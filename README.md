@@ -10,15 +10,19 @@ if it showed an error of "App js" has no default export. just move to another ta
 
 I captured live videos for how the app works:
 
-Through web: 
+On My personal mobile:
+```
+https://drive.google.com/open?id=1W4D-TM8R6EMFzXI2Y4OhhUHNiEWsGE_2
+```
+On expo-web emulator: 
 ```
 https://drive.google.com/open?id=1bp9ZA2FldX7Hjn2czYEZgBv4NdmEHR3z
 ```
-Through Iphone: 
+on expo-Iphone emulator: 
 ```
 https://drive.google.com/open?id=1NZ4eSvHrM0uJ2p9UaeFOjYlwUdefJvLv
 ```
-Through Android: 
+On expo-Android emulator: 
 
 ```
 https://drive.google.com/open?id=1Tfm2AYVcHYfxBHEwxpbRcklj6PjlP70n
