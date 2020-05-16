@@ -9,9 +9,19 @@ This application was built using React native and Redux.
 
 I captured live videos for how the app works:
 
-through web: `https://drive.google.com/open?id=1bp9ZA2FldX7Hjn2czYEZgBv4NdmEHR3z`
-through iphone: `https://drive.google.com/open?id=1NZ4eSvHrM0uJ2p9UaeFOjYlwUdefJvLv`
-through android: `https://drive.google.com/open?id=1Tfm2AYVcHYfxBHEwxpbRcklj6PjlP70n`
+Through web: 
+```
+https://drive.google.com/open?id=1bp9ZA2FldX7Hjn2czYEZgBv4NdmEHR3z
+```
+Through Iphone: 
+```
+https://drive.google.com/open?id=1NZ4eSvHrM0uJ2p9UaeFOjYlwUdefJvLv
+```
+Through Android: 
+
+```
+https://drive.google.com/open?id=1Tfm2AYVcHYfxBHEwxpbRcklj6PjlP70n
+```
 
 ## Installation
 First, you have to install Node.js on your computer. Then, write these commands in the project's directory in Terminal.
