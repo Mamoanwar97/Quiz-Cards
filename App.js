@@ -42,7 +42,7 @@ function UdaciStatusBar ({backgroundColor, ...props}) {
 
 const Tab = createBottomTabNavigator();
 
-export default  class App extends React.Component {
+class App extends React.Component {
   componentDidMount() {
     setLocalNotification()
   }
@@ -90,3 +90,4 @@ const styles = StyleSheet.create({
     backgroundColor: '#ecf0f1',
   }
 });
+export default  App;

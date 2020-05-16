@@ -7,14 +7,20 @@ This application was built using React native and Redux.
   You can find my project: https://snack.expo.io/@mamoanwar97/quiz-cards
 ```
 
+I captured live videos for how the app works:
+
+through web: `https://drive.google.com/open?id=1bp9ZA2FldX7Hjn2czYEZgBv4NdmEHR3z`
+through iphone: `https://drive.google.com/open?id=1NZ4eSvHrM0uJ2p9UaeFOjYlwUdefJvLv`
+through android: `https://drive.google.com/open?id=1Tfm2AYVcHYfxBHEwxpbRcklj6PjlP70n`
+
 ## Installation
 First, you have to install Node.js on your computer. Then, write these commands in the project's directory in Terminal.
+I prefer using the snack website provided before because it is where i developed the entire app, then i exported it. according to expo snack website if you run these 2 commands it should works but i dont have emulator on my pc to check if it really works, i only simulate within the website and my personal iphone throuph expo app
+
 ```
 $ npm install
 $ expo start
 ```
-Then, enter i to run the program in the iOS emulator which XCode provides.
-Also, you can run the code if you have Expo application installed. Just open the project by Expo application and choose what device you want to run the code on. In this case, choose ios device since it ha been tested only on iOS emulator.
 
 # Sample Snack app
 

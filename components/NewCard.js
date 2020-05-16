@@ -23,38 +23,29 @@ class NewCard extends React.Component{
       <View>
           <Text style={styles.title}>{route.params.deck? route.params.deck: "Deck name"}</Text>
           </View>
-            <Text style={styles.text}>
-                Question  ?
-            </Text>
             {
             found ? <Text style={styles.warning}>Same question exists</Text>
             :<Text style={styles.warning}></Text>
             }
             <TextInput
                 style={styles.input}
-                placeholder="Ask Here!"
+                placeholder="What is your question?"
                 onChangeText={(question) => this.setState({question})}
                 editable = {true}
                 multiline = {true}
                 placeholderTextColor= '#888'
             />
-            <Text style={styles.text}>
-                Answer  :
-            </Text>
             <TextInput
                 style={[styles.input, {borderColor: "#9f3a86"}]}
-                placeholder=" Answer Here!"
+                placeholder="What is your answer then ?"
                 onChangeText={(answer) => this.setState({answer})}
                 editable = {true}
                 multiline = {true}
                 placeholderTextColor= '#888'
             />
-            <Text style={styles.text}>
-                enter true / false
-            </Text>
             <TextInput
                 style={styles.input}
-                placeholder="true / false"
+                placeholder="is it true or false"
                 onChangeText={(condition) => this.setState({condition})}
                 editable = {true}
                 multiline = {true}
@@ -92,12 +83,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     padding: 10
   },
-text:{
-    fontSize: 18,
-    marginTop: 5,
-    color: "#111",
-    alignSelf: "flex-start"
-},
 input: {
    marginTop: 10,
    borderColor: '#584871',
