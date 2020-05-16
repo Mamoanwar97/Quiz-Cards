@@ -6,6 +6,7 @@ This application was built using React native and Redux.
 ```
   You can find my project: https://snack.expo.io/@mamoanwar97/quiz-cards
 ```
+if it showed an error of "App js" has no default export. just move to another tap and get back to this tap or minimize and maximize the browser the error will disappear it is not a techincal error it is a bug through the website.
 
 I captured live videos for how the app works:
 
