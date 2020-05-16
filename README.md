@@ -11,7 +11,7 @@ This application was built using React native and Redux.
 First, you have to install Node.js on your computer. Then, write these commands in the project's directory in Terminal.
 ```
 $ npm install
-$ npm start
+$ expo start
 ```
 Then, enter i to run the program in the iOS emulator which XCode provides.
 Also, you can run the code if you have Expo application installed. Just open the project by Expo application and choose what device you want to run the code on. In this case, choose ios device since it ha been tested only on iOS emulator.
