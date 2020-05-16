@@ -1,3 +1,4 @@
+import "react-native-gesture-handler";
 import * as React from 'react';
 import { Text, View, StyleSheet, Button, StatusBar } from 'react-native';
 import Constants from 'expo-constants';
